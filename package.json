@@ -1,5 +1,5 @@
 {
-  "name": "erc721",
+  "name": "evolution-land-erc721",
   "version": "1.0.0",
   "description": "Implement of the ERC721 standard.",
   "main": "truffle-config.js",
