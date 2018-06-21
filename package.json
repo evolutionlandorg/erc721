@@ -1,0 +1,23 @@
+{
+  "name": "erc721",
+  "version": "1.0.0",
+  "description": "Implement of the ERC721 standard.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evolutionlandorg/erc721.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evolutionlandorg/erc721/issues"
+  },
+  "homepage": "https://github.com/evolutionlandorg/erc721#readme"
+}
